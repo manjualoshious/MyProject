@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # Local FastAPI
-API_URL = "http://127.0.0.1:8000"
+API_URL = "https://myproject-639o.onrender.com"
 
 st.set_page_config(
     page_title="AI Orchestration",
